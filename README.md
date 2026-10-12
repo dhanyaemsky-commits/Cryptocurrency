@@ -46,11 +46,10 @@ Get the engine running locally in under a minute.
 `cd -Algorithmic-Crypto-Trading-Backtesting-Engine`
 
 **2. Install dependencies**
-`pip install -r requirements.txt`
+`python -m pip install -r requirements.txt`
 
 **3. Ignite the dashboard**
-`streamlit run app.py`
-
+`python -m streamlit run app.py`
 ---
 
 ### ✧ Performance Metrics Tracked
